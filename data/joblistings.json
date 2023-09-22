@@ -1,0 +1,43 @@
+[
+    {
+      "id": 1,
+      "title": "Head of data science",
+      "company": "ABSA",
+      "department": "CIB: Fraud Strategy",
+      "location": "Gauteng, Johannesburg",
+      "description": "Lorem ipsum dolor sit amet...",
+      "datePosted": "2023-09-22",
+      "closingDate": "2023-11-01"
+    },
+    {
+      "id": 2,
+      "title": "Data science specialist",
+      "company": "ABSA",
+      "department": "CIB: Fraud Strategy",
+      "location": "Gauteng, Johannesburg",
+      "description": "Lorem ipsum dolor sit amet...",
+      "datePosted": "2023-09-21",
+      "closingDate": "2023-10-21"
+    },
+    {
+      "id": 3,
+      "title": "Data scientist",
+      "company": "Standard Bank Group",
+      "department": "Equities",
+      "location": "Gauteng, Rosebank",
+      "description": "Lorem ipsum dolor sit amet...",
+      "datePosted": "2023-08-16",
+      "closingDate": "2023-11-27"
+    },
+    {
+      "id": 4,
+      "title": "Data engineer",
+      "company": "Nedbank",
+      "department": "Information technology",
+      "location": "Gauteng, Johannesburg",
+      "description": "Lorem ipsum dolor sit amet...",
+      "datePosted": "2023-09-18",
+      "closingDate": "2023-09-31"
+    }
+]
+  
